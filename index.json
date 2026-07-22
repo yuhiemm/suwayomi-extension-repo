@@ -206,10 +206,10 @@
   {
     "name": "Manhuagui",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuagui",
-    "apk": "tachiyomi-zh.manhuagui-v1.4.31-release.apk",
+    "apk": "tachiyomi-zh.manhuagui-v1.4.32-release.apk",
     "lang": "zh",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -223,10 +223,10 @@
   {
     "name": "ManhuaguiTW",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuaguitw",
-    "apk": "tachiyomi-zh.manhuaguitw-v1.4.31-release.apk",
+    "apk": "tachiyomi-zh.manhuaguitw-v1.4.32-release.apk",
     "lang": "zh",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
