@@ -172,10 +172,10 @@
   {
     "name": "Fumanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.fumanhua",
-    "apk": "tachiyomi-zh.fumanhua-v1.4.37-release.apk",
+    "apk": "tachiyomi-zh.fumanhua-v1.4.38-release.apk",
     "lang": "zh",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "sources": [
       {
