@@ -138,10 +138,10 @@
   {
     "name": "Baozimh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimh",
-    "apk": "tachiyomi-zh.baozimh-v1.4.31-release.apk",
+    "apk": "tachiyomi-zh.baozimh-v1.4.32-release.apk",
     "lang": "zh",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -172,10 +172,10 @@
   {
     "name": "Fumanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.fumanhua",
-    "apk": "tachiyomi-zh.fumanhua-v1.4.45-release.apk",
+    "apk": "tachiyomi-zh.fumanhua-v1.4.46-release.apk",
     "lang": "zh",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
