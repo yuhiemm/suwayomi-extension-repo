@@ -138,10 +138,10 @@
   {
     "name": "Baozimh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimh",
-    "apk": "tachiyomi-zh.baozimh-v1.4.32-release.apk",
+    "apk": "tachiyomi-zh.baozimh-v1.4.33-release.apk",
     "lang": "zh",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
@@ -155,10 +155,10 @@
   {
     "name": "Copy20",
     "pkg": "eu.kanade.tachiyomi.extension.zh.copy20",
-    "apk": "tachiyomi-zh.copy20-v1.4.31-release.apk",
+    "apk": "tachiyomi-zh.copy20-v1.4.32-release.apk",
     "lang": "zh",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
