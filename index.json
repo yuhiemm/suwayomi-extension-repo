@@ -87,10 +87,10 @@
   {
     "name": "ManhuaTop",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuatop",
-    "apk": "tachiyomi-en.manhuatop-v1.4.31-release.apk",
+    "apk": "tachiyomi-en.manhuatop-v1.4.32-release.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
