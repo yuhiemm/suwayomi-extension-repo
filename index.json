@@ -172,10 +172,10 @@
   {
     "name": "Fumanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.fumanhua",
-    "apk": "tachiyomi-zh.fumanhua-v1.4.48-release.apk",
+    "apk": "tachiyomi-zh.fumanhua-v1.4.49-release.apk",
     "lang": "zh",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {
@@ -240,10 +240,10 @@
   {
     "name": "ManhuaTop",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuatop",
-    "apk": "tachiyomi-zh.manhuatop-v1.4.2-release.apk",
+    "apk": "tachiyomi-zh.manhuatop-v1.4.3-release.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
