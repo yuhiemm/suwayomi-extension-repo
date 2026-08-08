@@ -257,10 +257,10 @@
   {
     "name": "Manwa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manwa",
-    "apk": "tachiyomi-zh.manwa-v1.4.36-release.apk",
+    "apk": "tachiyomi-zh.manwa-v1.4.37-release.apk",
     "lang": "zh",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "sources": [
       {
